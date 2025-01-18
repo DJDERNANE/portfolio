@@ -8,7 +8,7 @@ const person = {
     },
     role:      'Fullstack Developer',
     avatar:    '/images/avatar.jpeg',
-    location:  'Asia/Jakarta',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+    location: 'Africa/Algiers',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
     languages: ['English', 'French', 'Arabic']  // optional: Leave the array empty if you don't want to display languages
 }
 
