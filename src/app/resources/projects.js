@@ -60,6 +60,23 @@ const projects =[
 
         },
         content : "Responsive, multilingual, built with React.js."
+    },
+    {
+        slug: 'https://tourisme-three.vercel.app/',
+        link: 'https://tourisme-three.vercel.app/',
+        metadata: {
+            title: 'Ouancharisse',
+            images : [
+                '/images/projects/ouancharisse/ouancharisse.png',
+                '/images/projects/ouancharisse/ouancharisse1.png',
+                '/images/projects/ouancharisse/ouancharisse2.png',
+                '/images/projects/ouancharisse/ouancharisse3.png',
+            ],
+            summary : "Creat Events website, a platform designed to showcase and manage events. It features a clean, responsive design ensuring a smooth user experience across all devices. Built with HTML, CSS, and JavaScript. "
+
+        },
+        content : "Responsive, multilingual, built with React.js."
     }
+
 ]
 export default projects
