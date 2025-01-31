@@ -43,7 +43,8 @@ const home = {
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Fullstack Developer</>,
-    subline: <>I'm Djilali, a full-stack developer , where I design and build scalable web applications.<br/> After hours, I work on personal projects and explore new technologies.</>
+    subline: <>
+    Hi, I’m Djilali – a Full-Stack Developer passionate about designing and building scalable, user-friendly web applications.</>
 }
 
 const about = {
