@@ -71,12 +71,12 @@ const projects =[
         metadata: {
             title: 'Oggi Travel',
             images : [
-                '/images/projects/oggi-travel/1.png',
-                '/images/projects/oggi-travel/2.png',
-                '/images/projects/oggi-travel/3.png',
-                '/images/projects/oggi-travel/4.png',
-                '/images/projects/oggi-travel/5.png',
-                '/images/projects/oggi-travel/6.png',
+                '/images/projects/oggitravel/1.png',
+                '/images/projects/oggitravel/2.png',
+                '/images/projects/oggitravel/3.png',
+                '/images/projects/oggitravel/4.png',
+                '/images/projects/oggitravel/5.png',
+                '/images/projects/oggitravel/6.png',
             ],
             summary : " a full-featured web application for hotel administrators to manage room reservations, availability, customer details, and payments."
 
