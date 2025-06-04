@@ -31,6 +31,59 @@ const projects =[
         content : "Responsive, multilingual, built with React.js."
     },
     {
+        slug: 'https://vacansea-manager.com/',
+        link: 'https://vacansea-manager.com/',
+        metadata: {
+            title: 'Vacansea Manager',
+            images : [
+                '/images/projects/vacansea/1.png',
+                '/images/projects/vacansea/2.png',
+                '/images/projects/vacansea/3.png',
+                '/images/projects/vacansea/4.png',
+                '/images/projects/vacansea/5.png',
+            ],
+            summary : " a full-featured web application for hotel administrators to manage room reservations, availability, customer details, and payments."
+
+        },
+        content : "Responsive, multilingual, built with Laravel - Filament."
+    },
+    {
+        slug: 'https://oggivoyages.com/',
+        link: 'https://oggivoyages.com/',
+        metadata: {
+            title: 'Oggi Voyages',
+            images : [
+                '/images/projects/oggivoyages/1.png',
+                '/images/projects/oggivoyages/2.png',
+                '/images/projects/oggivoyages/3.png',
+                '/images/projects/oggivoyages/4.png',
+                '/images/projects/oggivoyages/5.png',
+                '/images/projects/oggivoyages/6.png',
+            ],
+            summary : " a full-featured web application for hotel administrators to manage room reservations, availability, customer details, and payments."
+
+        },
+        content : "Responsive, multilingual, built with Laravel - Filament."
+    },
+    {
+        slug: 'https://oggi-travel.com/',
+        link: 'https://oggi-travel.com/',
+        metadata: {
+            title: 'Oggi Travel',
+            images : [
+                '/images/projects/oggi-travel/1.png',
+                '/images/projects/oggi-travel/2.png',
+                '/images/projects/oggi-travel/3.png',
+                '/images/projects/oggi-travel/4.png',
+                '/images/projects/oggi-travel/5.png',
+                '/images/projects/oggi-travel/6.png',
+            ],
+            summary : " a full-featured web application for hotel administrators to manage room reservations, availability, customer details, and payments."
+
+        },
+        content : "Responsive, multilingual, built with Laravel - Filament."
+    },
+    {
         slug: 'https://cambridgebrainex.com/',
         link: 'https://cambridgebrainex.com/',
         metadata: {
