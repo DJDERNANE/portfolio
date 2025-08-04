@@ -70,10 +70,10 @@
         "title": "My projects",
         "description": "Design and dev projects by {name}"
     },
-    "gallery": {
-        "label": "Gallery",
-        "title": "My photo gallery",
-        "description": "A photo collection by {name}"
+    "services": {
+        "label": "Services",
+        "title": "My Services",
+        "description": "My services"
     },
     "projectCard": {
         "label": "Take a look"

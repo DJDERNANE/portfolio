@@ -162,5 +162,13 @@ const work = {
 }
 
 
+const services = {
+    label: 'Services',
+    title: 'My services',
+    description: `My Services`
+    // Create new project pages by adding a new .mdx file to app/blog/posts
+    // All projects will be listed on the /home and /work routes
+}
 
-export { person, social, newsletter, home, about, blog, work };
+
+export { person, social, newsletter, home, about, blog, work, services };

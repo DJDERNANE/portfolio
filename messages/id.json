@@ -70,7 +70,7 @@
         "title": "Proyek Saya",
         "description": "Proyek desain dan pengembangan oleh {name}"
     },
-    "gallery": {
+    "services": {
         "label": "Galeri",
         "title": "Galeri Foto Saya",
         "description": "Koleksi foto oleh {name}"

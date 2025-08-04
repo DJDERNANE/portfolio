@@ -68,7 +68,7 @@ export const Header = () => {
     }
 
     const t = useTranslations();
-    const { person, home, about, blog, work, gallery } = renderContent(t);
+    const { person, home, about, blog, work, services } = renderContent(t);
 
     return (
         <>
@@ -125,7 +125,7 @@ export const Header = () => {
                                     <Flex paddingX="2" hide="s">{work.label}</Flex>
                                 </ToggleButton>
                             )}
-                            {/* { routes['/blog'] && (
+                           { routes['/blog'] && (
                                 <ToggleButton
                                     prefixIcon="book"
                                     href={`/${params?.locale}/blog`}
@@ -133,14 +133,14 @@ export const Header = () => {
                                     <Flex paddingX="2" hide="s">{blog.label}</Flex>
                                 </ToggleButton>
                             )}
-                            { routes['/gallery'] && (
+                            { routes['/services'] && (
                                 <ToggleButton
-                                    prefixIcon="gallery"
-                                    href={`/${params?.locale}/gallery`}
-                                    selected={pathname.startsWith('/gallery')}>
-                                    <Flex paddingX="2" hide="s">{gallery.label}</Flex>
+                                    prefixIcon="services"
+                                    href={`/${params?.locale}/services`}
+                                    selected={pathname.startsWith('/services')}>
+                                    <Flex paddingX="2" hide="s">{services.label}</Flex>
                                 </ToggleButton>
-                            )} */}
+                            )} 
                         </Flex>
                     </Flex>
                 </Flex>
